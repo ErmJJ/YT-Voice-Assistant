@@ -1,3 +1,3 @@
-pyaudio
-SpeechRecognition
-yt-dlp
+pip install pyaudio
+pip install SpeechRecognition
+pip install yt-dlp
