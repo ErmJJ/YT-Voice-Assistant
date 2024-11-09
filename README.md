@@ -18,7 +18,7 @@ pip install yt_dlp
 ```
 
 ## Usage
-1. Clone the repository:
+1. Clone the repository: (opcional)
 ```bash
 git clone https://github.com/ErmJJ/YT-Voice-Assistant.git
 cd YT-Voice-Assistant
@@ -33,6 +33,7 @@ pip install -r requirements.txt
 ```bash
 py main.py
 ```
+4. Or just download the python file and requirements.txt
 
 ## Requirements
 - Python 3.8 or higher
