@@ -24,16 +24,18 @@ git clone https://github.com/ErmJJ/YT-Voice-Assistant.git
 cd YT-Voice-Assistant
 ```
 
-2. Install dependencies(if not already done):
+2. Install using python terminal:
 ```bash
-pip install -r requirements.txt
+pip install pyaudio
+pip install SpeechRecognition
+pip install yt_dlp
 ```
 
 3. Run the application:
 ```bash
 py main.py
 ```
-4. Or just download the python file and requirements.txt
+4. Or just download the python file en execute in visual studio code, idle or terminal
 
 ## Requirements
 - Python 3.8 or higher
